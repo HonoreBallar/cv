@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for watching this github
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
+Template Name: Amounan
+website: https://honoreballar.github.io/cv
+Author: Amounan Kouadjo Honoré
 License: https://bootstrapmade.com/license/
